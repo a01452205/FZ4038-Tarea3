@@ -1,9 +1,10 @@
 # Tarea 3 – Econometría Financiera (FZ4038)
 
 **Maestría en Finanzas, EGADE Business School, Tecnológico de Monterrey**
-Profesor: Dr. Raymundo Díaz Robles
-Alumno: Daniel Mondragón Monroy (A01452205)
-Fecha de entrega: 9 de octubre de 2026
+
+- **Profesor:** Dr. Raymundo Díaz Robles
+- **Alumno:** Daniel Mondragón Monroy (A01452205)
+- **Fecha de entrega:** 9 de octubre de 2026
 
 ## Descripción
 
